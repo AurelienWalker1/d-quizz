@@ -94,7 +94,7 @@ function LivePage() {
   return (
     <div className="live-page">
       <div className="live-header">
-        <img src={logo} alt="AQUALAND" className="live-logo" />
+        <img src={logo} alt="BRON ST EXUPERY" className="live-logo" />
 
         <h1>D-QUIZZ LIVE</h1>
 
