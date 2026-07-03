@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import logo from "../assets/logo.png";
 
-const API_BASE = "https://aquaquizz-backend.onrender.com";
+const API_BASE = "https://d-quizz.onrender.com";
 const LOCK_HOUR = 19;
 
 function RankingPage() {
