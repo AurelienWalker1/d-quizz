@@ -18,7 +18,7 @@ function IntroPage({ player, onStart }) {
 
       <img
         src={logo}
-        alt="AQUALAND"
+        alt="DECATHLON BRON ST EXUPERY"
         className="app-logo"
       />
 
@@ -31,7 +31,7 @@ function IntroPage({ player, onStart }) {
       <div className="intro-box">
 
         <p>
-          📱 Trouve et Scanne les QR codes D-QUIZZ présents dans le parc
+          📱 Trouve et Scanne les QR codes D-QUIZZ présents dans ton magasin Décathlon Bron St Exupery
           pour répondre aux questions.
         </p>
 
