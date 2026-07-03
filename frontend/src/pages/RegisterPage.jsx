@@ -78,14 +78,14 @@ function RegisterPage({ onRegister }) {
 
       <img
         src={logo}
-        alt="AQUALAND"
+        alt="BRON ST EXUPERY"
         className="app-logo"
       />
 
       <h1>D-QUIZZ</h1>
 
       <p className="subtitle">
-        Le quiz officiel Aqualand Cap d'Agde
+        Le quiz officiel Decathlon Bron St Exupery
       </p>
 
       <form onSubmit={handleSubmit}>
@@ -130,7 +130,7 @@ function RegisterPage({ onRegister }) {
         En participant à D-QUIZZ, vous acceptez que
         vos données (prénom, email et téléphone)
         soient conservées et utilisées par
-        Aqualand Cap d’Agde dans le cadre de
+        Decathlon Bron St Exupery dans le cadre de
         l’organisation du jeu, des classements
         et des communications liées aux animations
         du parc.
